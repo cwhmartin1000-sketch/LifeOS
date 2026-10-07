@@ -4,7 +4,7 @@
 
 | 任務 | 主題 | 狀態 | 證據 |
 |---|---|---|---|
-| 001 | 開發環境、測試、啟動與重啟持久性 | 待開始 | 尚無實際執行結果 |
+| 001 | 開發環境、測試、啟動與重啟持久性 | 待 review | 執行結果請參考development-environment.md |
 
 下一個工作：閱讀 [任務 001](tasks/001-development-environment.md)，依步驟完成並填寫 worklog。
 其餘 Sprint 1 工作見 sprints/sprint-1.md；後續任務在 review 後逐步展開。
